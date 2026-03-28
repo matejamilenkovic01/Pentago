@@ -72,3 +72,6 @@ crashlytics-build.properties
 
 # JetBrains Rider
 .idea/
+
+# Dev screenshots (shared with Claude for review)
+screenshots/
